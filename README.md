@@ -1,4 +1,4 @@
-# **Email Application**
+# **Email Administration Application**
 
 > ## Your task is creating new email accounts
 
